@@ -1,0 +1,3 @@
+Hi, my name is Michael Vuong.
+I am a student at Boston University.
+My favorite class so far has been DS219 because I enjoy learning how Git and GitHub work.
